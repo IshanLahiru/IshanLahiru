@@ -9,12 +9,9 @@
 
 - 🌱 I’m currently learning **IJSE**
 
-- 📝 I regularly write articles on [http://codercrope.com](http://codercrope.com)
+- 📝 I regularly write articles on [https://codercrope.com](https://codercrope.com)
 
 - 📫 How to reach me **ishanlahiru2002@gmail.com**
-
-<h3 align="left">Team :</h3>
-<a href="http://codercrope.com" target="blank"><img align="center" src="http://codercrope.com/images/logo.png" alt="zxcvxc" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
