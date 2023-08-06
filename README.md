@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently working @ **iCET**
 
-- 📝 I regularly write articles on [https://codercrope.com](https://codercrope.com)
-
 - 📫 How to reach me **ishanlahiru2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
