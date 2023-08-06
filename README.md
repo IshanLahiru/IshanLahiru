@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Lahiru</h1>
 <h3 align="center">I'm a technophile</h3>
-![Uploading 68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966.gif…]()
-![68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f666c6167732f68642f6972616e706172726f742e676966](https://github.com/IshanLahiru/IshanLahiru/assets/50785933/8dad5e5b-3bb6-4a30-b281-0360263be099)
-![68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966](https://github.com/IshanLahiru/IshanLahiru/assets/50785933/728f9734-f7e2-41bc-99cb-d93c9e15693b)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanlahiru&label=Profile%20views&color=0e75b6&style=flat" alt="ishanlahiru" /> </p>
 
