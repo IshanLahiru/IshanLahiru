@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ishanlahiru" target="blank"><img src="https://img.shields.io/twitter/follow/ishanlahiru?logo=twitter&style=for-the-badge" alt="ishanlahiru" /></a> </p>
 
-- 🌱 I’m currently working @ **iCET**
+- 🌱 I’m currently working @ **Plurative**
 
 - 📫 How to reach me **ishanlahiru2002@gmail.com**
   
