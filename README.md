@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/ishanlahiru" target="blank"><img src="https://img.shields.io/twitter/follow/ishanlahiru?logo=twitter&style=for-the-badge" alt="ishanlahiru" /></a> </p>
+<p align="left"> <a href="https://x.com/ishanLahiru_" target="blank"><img src="https://img.shields.io/twitter/follow/ishanlahiru?logo=twitter&style=for-the-badge" alt="ishanLahiru_" /></a> </p>
 
 - 🌱 I’m currently working @ **Plurative**
 
